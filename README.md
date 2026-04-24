@@ -1,4 +1,5 @@
 This is a MIDI mapping tool written in python.
+
 Input options:
 - Button
 - Key
