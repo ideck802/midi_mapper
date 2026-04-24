@@ -619,6 +619,24 @@ header::before {
 											margin-right: 5px;
 										}
 
+										button {
+											padding: 10px;
+				
+											color: var( --text-1 );
+				
+											background: var( --theme-img );
+				
+											border: 0;
+											border-radius: 10px;
+				
+											box-shadow: 0 4px 8px $translucent-2;
+		
+											font-family: Arial, Helvetica, sans-serif;
+											font-size: 1em;
+		
+											cursor: pointer;
+										}
+
 										>div {
 											margin-right: 5px;
 										}
